@@ -1,0 +1,5 @@
+Tareas:
+prototipo de nuestro cliente (vista movil,vista sobremesa)
+1 material
+2 Boostrap
+3 mismo diseño
